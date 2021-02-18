@@ -7,7 +7,7 @@ log4js.configure({
         },
         "file":{
             "type": "file",
-            "filename": "test.log"
+            "filename": "./log/test.log"
         }
     },
     "categories":{
